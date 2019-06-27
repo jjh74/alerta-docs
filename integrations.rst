@@ -412,6 +412,7 @@ of the most popular are:
 .. _HipChat: https://github.com/alerta/alerta-contrib/tree/master/plugins/hipchat
 .. _InfluxDB: https://github.com/alerta/alerta-contrib/tree/master/plugins/influxdb
 .. _Logstash/Kibana: https://github.com/alerta/alerta-contrib/tree/master/plugins/logstash
+.. _Microsoft Teams: https://github.com/alerta/alerta-contrib/tree/master/plugins/msteams
 .. _Normalise: https://github.com/alerta/alerta-contrib/tree/master/plugins/normalise
 .. _PagerDuty Plugin: https://github.com/alerta/alerta-contrib/tree/master/plugins/pagerduty
 .. _Prometheus Silencer: https://github.com/alerta/alerta-contrib/tree/master/plugins/prometheus
